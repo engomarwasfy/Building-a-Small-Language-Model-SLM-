@@ -62,6 +62,8 @@ The project includes three experimental workflows:
 | **Dataset Translation Workflow** | Pre-training augmentation where English source data is machine-translated to create synthetic Arabic training corpus |
 | **Inference Translation Workflow** | Cross-lingual approach using a robust English-trained model with translation layers applied to input prompts and output generations |
 
+![SLM Workflows](images/SLM%20Workflows.png)
+
 ---
 
 ## Project Structure
