@@ -305,7 +305,7 @@ All contributions—bug reports, documentation fixes, new features—are welcome
 
 ## References
 
-1. engomarwasfy. (2023). [Building-a-Small-Language-Model-SLM](https://github.com/engomarwasfy/Building-a-Small-Language-Model-SLM-). GitHub repository.
+1. engomarwasfy. (2026). [Building-a-Small-Language-Model-SLM](https://github.com/engomarwasfy/Building-a-Small-Language-Model-SLM-). GitHub repository.
 2. Li, Y., & Eldan, R. (2023). [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://openreview.net/pdf?id=yiPtWSrBrN) OpenReview.
 3. ChaitanyaK77. (2023). [Building-a-Small-Language-Model-SLM](https://github.com/ChaitanyaK77/Building-a-Small-Language-Model-SLM-). GitHub repository.
 4. Eldan, R. (2023). [roneneldan/TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories). Hugging Face Datasets.
